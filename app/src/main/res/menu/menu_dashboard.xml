@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_profile"
+        android:title="Profile" />
+    <item android:id="@+id/menu_contact"
+        android:title="Contact Us" />
+    <item android:id="@+id/menu_rate"
+        android:title="Rate Us" />
+    <item android:id="@+id/menu_request"
+        android:title="Request Transport" />
+    <item android:id="@+id/menu_offer"
+        android:title="Offer Transport" />
+    <item android:id="@+id/menu_more"
+        android:title="More" />
+</menu>

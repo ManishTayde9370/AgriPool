@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "77765468818",
+    "project_id": "agripool-03",
+    "storage_bucket": "agripool-03.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77765468818:android:800616f99458af97da7c4b",
+        "android_client_info": {
+          "package_name": "com.example.agripool"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWbeXJdipsQU5391i0_bpOoSsKTh8X7SI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

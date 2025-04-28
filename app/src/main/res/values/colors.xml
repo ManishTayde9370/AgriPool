@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Basic Colors -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Soft Blue Variants -->
+    <color name="soft_blue_pressed">#1976D2</color> <!-- Example: Deep Blue -->
+    <color name="soft_blue_focused">#64B5F6</color> <!-- Example: Light Blue -->
+
+    <!-- Soft Orange Variants -->
+    <color name="soft_orange_pressed">#E65100</color> <!-- Example: Dark Orange -->
+    <color name="soft_orange_focused">#FFB74D</color> <!-- Example: Light Orange -->
+    <color name="soft_blue">#2196F3</color>  <!-- Replace with your desired color -->
+    <color name="soft_orange">#FFA500</color>  <!-- Replace with your desired orange color -->
+    <color name="light_green_bg">#A8E6CF</color> <!-- Use any green shade you prefer -->
+    <color name="deep_green">#2E7D32</color> <!-- You can change the color code -->
+
+</resources>
